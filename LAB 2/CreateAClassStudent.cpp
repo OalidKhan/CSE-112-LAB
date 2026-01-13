@@ -37,4 +37,5 @@ int main() {
 	Oalid.DisplayDetails();
 	cout << "Total Marks = " << Oalid.TotalMarks() << endl << "Avarage Mark = " << Oalid.AvarageMark();
 
+	return 0;
 }
